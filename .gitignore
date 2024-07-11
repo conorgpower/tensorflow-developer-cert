@@ -2,3 +2,8 @@
 __pycache__
 .ipynb_checkpoints
 .DS_Store
+
+# images
+C1/W4/ungraded_labs/horse-or-human/
+C2/W1/ungraded_lab/cats_and_dogs_filtered/
+*zip
